@@ -120,9 +120,9 @@ const onlinePresenceList: onlinePresence[] = [
 
 const creativeMindList: creativeMind[] = [
    {
-    image: '/images/home/creative/creative_img_3.png',
+    image: '/images/home/creative/rahul.jpeg',
     name: 'Rahul Baksariya',
-    position: 'FOUNDER & CEO (Social Media Specialist)',
+    position: 'FOUNDER & CEO',
     twitterLink: 'https://x.com/',
     linkedinLink: 'https://in.linkedin.com/',
   },
@@ -142,7 +142,7 @@ const creativeMindList: creativeMind[] = [
     linkedinLink: 'https://in.linkedin.com/',
   },
   {
-    image: '/images/home/creative/creative_img_3.png',
+    image: '/images/home/creative/utkarsh.png',
     name: 'Utkarsh Kumar',
     position: 'Software Developer',
     twitterLink: 'https://x.com/',
