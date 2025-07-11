@@ -18,7 +18,7 @@ const footerData = {
             {
                 icon: "/images/home/footerSocialIcon/dribble.svg",
                 dark_icon: "/images/home/footerSocialIcon/dribble_dark.svg",
-                link: "https://dribbble.com"
+                link: ""
             },
             {
                 icon: "/images/home/footerSocialIcon/instagram.svg",
