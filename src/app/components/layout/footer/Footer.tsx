@@ -65,7 +65,7 @@ const Footer = () => {
                       key={index}
                       className='text-dark_black/60 hover:text-black dark:text-white/60 dark:hover:text-white'>
                       <Link
-                      //  href={item.url}
+                       href={item.url}
                        >{item.name}</Link>
                     </li>
                   )
@@ -81,7 +81,7 @@ const Footer = () => {
                       key={index}
                       className='text-dark_black/60 hover:text-black dark:text-white/60 dark:hover:text-white'>
                       <Link 
-                      // href={item.url}
+                      href={item.url}
                       >{item.name}</Link>
                     </li>
                   )

@@ -119,31 +119,39 @@ const onlinePresenceList: onlinePresence[] = [
 ]
 
 const creativeMindList: creativeMind[] = [
+   {
+    image: '/images/home/creative/creative_img_2.png',
+    name: 'Rahul Baksariya',
+    position: 'FOUNDER & CEO (Social Media Specialist)',
+    twitterLink: 'https://x.com/',
+    linkedinLink: 'https://in.linkedin.com/',
+  },
   {
     image: '/images/home/creative/aman.jpg',
     name: 'Aman Kumar',
-    position: 'CO-FOUNDER & CTO',
+    position: 'CO-FOUNDER & CTO (Full Stack Developer)',
     twitterLink: 'https://x.com/',
-    linkedinLink: 'https://in.linkedin.com/',
+    linkedinLink: 'https://www.linkedin.com/in/aman-kumar-b683b614b/',
   },
-  {
-    image: '/images/home/creative/creative_img_2.png',
-    name: 'Ana Belić',
-    position: 'Social Media Specialist',
-    twitterLink: 'https://x.com/',
-    linkedinLink: 'https://in.linkedin.com/',
-  },
+ 
   {
     image: '/images/home/creative/creative_img_3.png',
-    name: 'Brian Hanley',
+    name: 'Parul Giri',
     position: 'Product Designer',
     twitterLink: 'https://x.com/',
     linkedinLink: 'https://in.linkedin.com/',
   },
   {
     image: '/images/home/creative/creative_img_4.png',
-    name: 'Darko Stanković',
-    position: 'UI Designer',
+    name: 'Utkarsh Kumar',
+    position: 'Software Developer',
+    twitterLink: 'https://x.com/',
+    linkedinLink: 'https://in.linkedin.com/',
+  },
+  {
+    image: '/images/home/creative/creative_img_4.png',
+    name: 'Dilip Kumar',
+    position: 'Software Developer',
     twitterLink: 'https://x.com/',
     linkedinLink: 'https://in.linkedin.com/',
   },
