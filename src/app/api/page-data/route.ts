@@ -89,6 +89,12 @@ const innovationList: innovation[] = [
     bg_color: 'bg-pink/20',
     txt_color: 'text-pink',
   },
+    {
+    image: '/images/home/innovation/uiux.svg',
+    title: 'Multi platform \nIntegration',
+    bg_color: 'bg-orange/20',
+    txt_color: 'text-orange',
+  }
 ]
 
 const onlinePresenceList: onlinePresence[] = [
