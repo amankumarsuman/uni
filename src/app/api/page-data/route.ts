@@ -120,7 +120,7 @@ const onlinePresenceList: onlinePresence[] = [
 
 const creativeMindList: creativeMind[] = [
    {
-    image: '/images/home/creative/creative_img_2.png',
+    image: '/images/home/creative/creative_img_3.png',
     name: 'Rahul Baksariya',
     position: 'FOUNDER & CEO (Social Media Specialist)',
     twitterLink: 'https://x.com/',
@@ -129,27 +129,27 @@ const creativeMindList: creativeMind[] = [
   {
     image: '/images/home/creative/aman.jpg',
     name: 'Aman Kumar',
-    position: 'CO-FOUNDER & CTO (Full Stack Developer)',
+    position: 'CO-FOUNDER & CTO ',
     twitterLink: 'https://x.com/',
     linkedinLink: 'https://www.linkedin.com/in/aman-kumar-b683b614b/',
   },
  
   {
-    image: '/images/home/creative/creative_img_3.png',
+    image: '/images/home/creative/creative_img_2.png',
     name: 'Parul Giri',
     position: 'Product Designer',
     twitterLink: 'https://x.com/',
     linkedinLink: 'https://in.linkedin.com/',
   },
   {
-    image: '/images/home/creative/creative_img_4.png',
+    image: '/images/home/creative/creative_img_3.png',
     name: 'Utkarsh Kumar',
     position: 'Software Developer',
     twitterLink: 'https://x.com/',
     linkedinLink: 'https://in.linkedin.com/',
   },
   {
-    image: '/images/home/creative/creative_img_4.png',
+    image: '/images/home/creative/creative_img_3.png',
     name: 'Dilip Kumar',
     position: 'Software Developer',
     twitterLink: 'https://x.com/',
@@ -180,7 +180,7 @@ const WebResultTagList: WebResultTag[] = [
 
 const startupPlanList: startupPlan[] = [
   {
-    plan_bg_color: 'bg-village-entrepreneur',
+    plan_bg_color: 'bg-green',
     text_color: 'text-dark_black',
     descp_color: 'dark_black/60',
     border_color: 'border-dark_black/10',
@@ -217,7 +217,7 @@ const startupPlanList: startupPlan[] = [
     ]
   },
   {
-    plan_bg_color: 'bg-grocery-special',
+    plan_bg_color: 'bg-pink',
     text_color: 'text-white',
     descp_color: 'white/80',
     border_color: 'border-white/20',
@@ -236,7 +236,7 @@ const startupPlanList: startupPlan[] = [
     // badge: 'Local Business Focus'
   },
   {
-    plan_bg_color: 'bg-ecommerce-special',
+    plan_bg_color: 'bg-blue',
     text_color: 'text-white',
     descp_color: 'white/80',
     border_color: 'border-white/20',
