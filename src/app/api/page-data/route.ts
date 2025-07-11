@@ -34,12 +34,12 @@ const brandList: brand[] = [
   {
     image: '/images/home/brand/brand-icon-1.svg',
     darkImg: '/images/home/brand/brand-darkicon-1.svg',
-    title: 'Adobe',
+    title: 'Amazon',
   },
   {
     image: '/images/home/brand/brand-icon-2.svg',
     darkImg: '/images/home/brand/brand-darkicon-2.svg',
-    title: 'Figma',
+    title: 'Flipkart',
   },
   {
     image: '/images/home/brand/brand-icon-3.svg',
@@ -49,12 +49,12 @@ const brandList: brand[] = [
   {
     image: '/images/home/brand/brand-icon-4.svg',
     darkImg: '/images/home/brand/brand-darkicon-4.svg',
-    title: 'Dribble',
+    title: 'Myntra',
   },
   {
     image: '/images/home/brand/brand-icon-5.svg',
     darkImg: '/images/home/brand/brand-darkicon-5.svg',
-    title: 'Webflow',
+    title: 'Meeso',
   },
 ]
 
